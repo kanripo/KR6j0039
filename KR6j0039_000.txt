@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂蓮華部心念誦儀軌
+#+DATE: 2015-08-30 20:24:13.356101
+#+PROPERTY: JUAN 0
